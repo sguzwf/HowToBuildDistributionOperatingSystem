@@ -1,2 +1,20 @@
-# HowToBuildDistributionOperatingSystem
-how to build Distribution Operating System
+## 如何实现一个分布式操作系统
+
+*  第一章 概念
+*  第二章 基础
+   *  [通讯框架]
+   *  [资源隔离]
+   *  [rootfs]
+   *  [系统调用]
+   *  [namespace]
+*  第三章 镜像规范
+   *  [oci rootfs 标准]
+   *  [docker image 格式]
+*  第四章 容器引擎
+   *  [进程管理]
+   *  [引擎热升级]
+   *  [资源采集]
+   *  [容器管理]
+*  第五章 分布式
+
+
