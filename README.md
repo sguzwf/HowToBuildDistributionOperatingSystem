@@ -7,7 +7,7 @@
    *  [rootfs]
    *  [系统调用]
    *  [namespace]
-   *  [linux terminal]
+   *  [terminal]
 *  第三章 镜像规范
    *  [oci rootfs 标准]
    *  [docker image 格式]
